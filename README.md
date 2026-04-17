@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on SkillHunt.<br>- 🌱 I'm currently learning Back-End Developement.<br>- 💬 Ask me some questions about Front End.<br>- 📫 To contact me:  lyazidimanel@gmail.com
+<br>- 🔭 I’m currently working on SkillHunt.<br>- 🌱 I'm currently learning Back-End Developement.<br>- 💬 Ask me some questions about Front End.
 
 
 ## 🌐 Socials:
